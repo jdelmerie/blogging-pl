@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner {
+    min-height: 200px;
+}
+
+footer {
+    min-height: 50px;
+    /* border: 2px solid red; */
+}
+   
+
+.banner h1 {
+    font-size: 80px;
+    text-shadow: 2px 5px 7px rgba(0, 0, 0, 0.726);
+}
+
+h1, h2 {
+    font-family: 'Grandstander', cursive;
+}
