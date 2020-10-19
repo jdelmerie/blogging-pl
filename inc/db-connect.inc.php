@@ -8,7 +8,7 @@ function debug ($value)
 
 // var de connexion à la db
 $host = 'localhost';
-$dbname = 'users';
+$dbname = 'blogging';
 $username = 'root';
 $password = '';
 
